@@ -322,6 +322,10 @@ img {
   transform: scale(1.1);
 }
 
+figcaption{
+  background-color: whitesmoke;
+  color: grey;
+}
 
 /* ===== CONTACT =====*/
 .contact__input {
